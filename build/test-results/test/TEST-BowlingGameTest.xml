@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BowlingGameTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-29T02:06:54" hostname="LAPTOP-4IAL4K6J" time="0.025">
+  <properties/>
+  <testcase name="testOneStrike()" classname="BowlingGameTest" time="0.016"/>
+  <testcase name="testGutterGame()" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="testOneSpare()" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="testAllOnce()" classname="BowlingGameTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
